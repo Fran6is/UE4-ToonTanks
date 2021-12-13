@@ -1,4 +1,4 @@
-## Toon tanks mini project. A follow along to GameDev.tv's [Unreal Engine C++ Developer]() course
+## Toon tanks mini project. A follow along to GameDev.tv's [Unreal Engine C++ Developer](https://www.udemy.com/course/unrealcourse/) course
 
 <hr>
 
