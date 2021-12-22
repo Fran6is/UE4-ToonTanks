@@ -2,6 +2,8 @@
 
 <hr>
 
+***Engine version:*** 4.25
+
 Project's current input mappings :
 - ***Tank movement*** -> Keyboard **W-A-S-D** keys, **Xbox controller left thumbstick**
 
